@@ -1,27 +1,45 @@
 header,
 header h1 {
-    color: #f0fff8;
+    color: #fffce0;
     background-color: #333;
     margin: 0;
     padding: 10px;
 }
+
 body {
-    background-color: #f0fff8;
+    background-color: #fffce0;
     font-family: Arial, Helvetica, sans-serif;
     margin: 0;
 }
 
+.method body {
+    background-color: #f0fff8;
+}
+
+.method header,
+.method header h1 {
+    color: #f0fff8;
+}
+
+header a.homelink {
+    float: left;
+}
+
 article {
-        margin: 3em 10%;
+    margin: 3em 10%;
 }
 
 article pre {
-    overflow-x: scroll
+    overflow-x: auto;
 }
 
 .method #main {
     width: 70%;
     float: left;
+}
+
+.default #main {
+    margin: 3em 10%;
 }
 
 #sidebar {
