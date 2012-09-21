@@ -1,5 +1,6 @@
 ---
 title: API Marshalling
+layout: method
 ---
 Requests are made to the API using either GET or POST parameters for the arguments, with complex parameters (lists and dictionaries) passed in JSON format. When referring to Sources and Displays in the API you must use their UUID.
 

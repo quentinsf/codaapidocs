@@ -1,5 +1,6 @@
 ---
 title: external/v2/json/removeUser
+layout: method
 ---
 ## external/v2/json/removeUser
 

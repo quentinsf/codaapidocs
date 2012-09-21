@@ -1,5 +1,6 @@
 ---
 title: Concepts Overview
+layout: method
 ---
 To use the API you need to be familiar with a few core concepts related to the CODA platform. Here we give you a brief overview of these concepts, and assume that you are familiar with the basic operations the traditional CODA UI affords.
 
@@ -23,7 +24,7 @@ A Source is a single piece of displayable content in the CODA system. To display
 * a file that has been uploaded to CODA's content delivery network
 * some special sources combine a number of other sources, eg. Playlists or Screen Schedules.
 
-Sources have a type associated with them (e.g., Image, PDF, or Video). Each type will have a number of parameters that need to be filled in. A list of Source types, the UUID by which to refer to them, and the parameters they take can be found in the <a href="/faqs/api/source-types-and-the-api">Source Types</a> section of this documentation.
+Sources have a type associated with them (e.g., Image, PDF, or Video). Each type will have a number of parameters that need to be filled in. A list of Source types, the UUID by which to refer to them, and the parameters they take can be found in the <a href="source-types-and-the-api">Source Types</a> section of this documentation.
 
 ## Playlists
 

@@ -1,5 +1,6 @@
 ---
 title: external/v2/json/touchSource
+layout: method
 ---
 ## external/v2/json/touchSource
 

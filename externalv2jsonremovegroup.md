@@ -1,5 +1,6 @@
 ---
 title: external/v2/json/removeGroup
+layout: method
 ---
 ## external/v2/json/removeGroup
 

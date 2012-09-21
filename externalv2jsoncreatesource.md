@@ -1,5 +1,6 @@
 ---
 title: external/v2/json/createSource
+layout: method
 ---
 ## external/v2/json/createSource
 
@@ -7,7 +8,7 @@ HTTPMethod: GET/POST
 Required Parameters: name, type_uuid, parameters
 Optional Parameters: 
 
-Allows you to create a new source item with a specified type and associated parameters. In CODA, each source type you see is has a corresponding UUID for the type, and a set of required and optional parameters. Full details on the source types can be found [here](/faqs/api/source-types-and-the-api).
+Allows you to create a new source item with a specified type and associated parameters. In CODA, each source type you see is has a corresponding UUID for the type, and a set of required and optional parameters. Full details on the source types can be found [here](source-types-and-the-api).
 
 ### Required Parameters
 

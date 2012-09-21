@@ -1,5 +1,6 @@
 ---
 title: external/v2/json/assignSource
+layout: method
 ---
 ## external/v2/json/assignSource
 

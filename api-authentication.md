@@ -1,5 +1,6 @@
 ---
 title: API Authentication
+layout: method
 ---
 ## Overview
 

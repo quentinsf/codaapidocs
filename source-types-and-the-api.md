@@ -1,5 +1,6 @@
 ---
 title: Source Types and the API
+layout: method
 ---
 When mutating sources in CODA  via the API you need to know a few things, depending on what you're trying to do. Firstly, to create a Source, you need to know the UUID of the SourceType (though there are some helper functions for common sources). You also need to know what parameters that source type expects you to provide. This page gives you an overview of this.
 

@@ -1,5 +1,6 @@
 ---
 title: external/v2/json/getSources
+layout: method
 ---
 ## external/v2/json/getSources
 

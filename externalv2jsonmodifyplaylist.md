@@ -1,5 +1,6 @@
 ---
 title: external/v2/json/modifyPlaylist
+layout: method
 ---
 ## external/v2/json/modifyPlaylist
 

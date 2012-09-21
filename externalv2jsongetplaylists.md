@@ -1,5 +1,6 @@
 ---
 title: external/v2/json/getPlaylists
+layout: method
 ---
 ## external/v2/json/getPlaylists
 

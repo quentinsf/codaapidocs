@@ -1,5 +1,6 @@
 ---
 title: external/v2/json/createGroup
+layout: method
 ---
 ## external/v2/json/createGroup
 

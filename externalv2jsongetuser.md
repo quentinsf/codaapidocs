@@ -1,5 +1,6 @@
 ---
 title: external/v2/json/getUser
+layout: method
 ---
 ## external/v2/json/getUser
 
