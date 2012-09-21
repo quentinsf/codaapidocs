@@ -15,6 +15,10 @@ article {
         margin: 3em 10%;
 }
 
+article pre {
+    overflow-x: scroll
+}
+
 .method #main {
     width: 70%;
     float: left;
