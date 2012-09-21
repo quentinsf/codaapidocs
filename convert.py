@@ -48,7 +48,7 @@ with open(os.path.join(out_dir, "_includes", "sitemap.html"), 'w') as o:
   o.write("<ul id='sitemap'>")
   o.write("\n    <li><a href='/codaapidocs'>Home</a></li>")
   for n in range(0, len(titles) - 1):
-    o.write("\n    <li><a href='../%s'>%s</a></li>" % (links[n], titles[n].replace("external/v2/json/", "")) )
+    o.write("\n    <li><a href='%s'>%s</a></li>" % (links[n], titles[n].replace("external/v2/json/", "")) )
   o.write("\n</ul>")
 
 print "Done"
