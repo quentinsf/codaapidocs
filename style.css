@@ -28,6 +28,7 @@ a.home_link {
 
 article {
     margin: 3em 10%;
+    line-height: 130%;
 }
 
 article pre {
