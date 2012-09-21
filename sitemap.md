@@ -1,6 +1,6 @@
 ---
 title: List of all pages
-layout: method
+layout: default
 ---
 
 * [Home](/codaapidocs)

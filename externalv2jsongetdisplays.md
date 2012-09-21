@@ -23,7 +23,7 @@ Returns details either all displays, or those that match the optional parameters
 
 Simply send a GET or POST request with suitable OAuth credentials and optionally any of the filters required.
 
-`https://api.codaview.com/external/v2/json/getDisplays/`
+`/external/v2/json/getDisplays/`
 
 ### Response
 

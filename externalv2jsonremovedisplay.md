@@ -19,7 +19,7 @@ display_uuid:  UUID of the display. Must exist in the organisation.
 
 Simply send a GET or POST request with suitable OAuth credentials and the display_uuid parameter.
 
-`https://api.codaview.com/external/v2/json/removeDisplay/`
+`/external/v2/json/removeDisplay/`
 
 ### Response
 

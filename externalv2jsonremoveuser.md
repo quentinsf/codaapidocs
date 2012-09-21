@@ -19,7 +19,7 @@ user_uuid:  UUID of the user. Must exist in the organisation.
 
 Simply send a GET or POST request with suitable OAuth credentials and the user_uuid parameter.
 
-`https://api.codaview.com/external/v2/json/removeUser/`
+`/external/v2/json/removeUser/`
 
 ### Response
 

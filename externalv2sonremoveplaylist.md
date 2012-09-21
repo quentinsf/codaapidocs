@@ -19,7 +19,7 @@ playlist_uuid:  UUID of the user. Must exist in the organisation.
 
 Simply send a GET or POST request with suitable OAuth credentials and the playlist_uuid parameter.
 
-`https://api.codaview.com/external/v2/json/removePlaylist/`
+`/external/v2/json/removePlaylist/`
 
 ### Response
 

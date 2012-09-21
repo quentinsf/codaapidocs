@@ -28,7 +28,7 @@ Updates the user specified with the provided UUID, allowing you to change the us
 Simply send a GET or POST request with suitable OAuth credentials, the user's UUID, and the parameters which
 you wish to update.
 
-`https://api.codaview.com/external/v2/json/modifyUser/`
+`/external/v2/json/modifyUser/`
 
 ### Response
 

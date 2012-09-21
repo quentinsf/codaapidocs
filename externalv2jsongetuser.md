@@ -14,7 +14,7 @@ Returns details of the current user as identified by the API access token.
 
 Simply send a GET or POST request with suitable OAuth credentials.
 
-`https://api.codaview.com/external/v2/json/getUser/`
+`/external/v2/json/getUser/`
 
 ### Response
 

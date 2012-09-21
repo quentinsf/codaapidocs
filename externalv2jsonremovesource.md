@@ -19,7 +19,7 @@ source_uuid:  UUID of the source. Must exist in the organisation.
 
 Simply send a GET or POST request with suitable OAuth credentials and the source_uuid parameter.
 
-`https://api.codaview.com/external/v2/json/removeSource/`
+`/external/v2/json/removeSource/`
 
 ### Response
 

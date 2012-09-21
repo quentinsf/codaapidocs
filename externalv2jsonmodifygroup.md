@@ -25,7 +25,7 @@ Updates the group specified with the provided UUID, allowing you to change the g
 
 Simply send a GET or POST request with suitable OAuth credentials and the name parameter.
 
-`https://api.codaview.com/external/v2/json/modifyGroup/`
+`/external/v2/json/modifyGroup/`
 
 ### Response
 

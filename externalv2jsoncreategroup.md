@@ -19,7 +19,7 @@ name:  Name of the group. Must be unique in this organisation.
 
 Simply send a GET or POST request with suitable OAuth credentials and the name parameter.
 
-`https://api.codaview.com/external/v2/json/createGroup/`
+`/external/v2/json/createGroup/`
 
 ### Response
 

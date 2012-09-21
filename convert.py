@@ -38,12 +38,16 @@ for fname in os.listdir(work_dir):
 
                 # Look for things that appear to be hrefs and convert them so they work
                 body = body.replace("/faqs/api/","")
+
+                # Look for instances of api.codaview.com and remove
+                body = body.replace("https://api.codaview.com", "")
+
                 o.write(body.encode("UTF-8"))
 
 with open(os.path.join(out_dir, "sitemap.md"), 'w') as o:
   o.write(YAML_FRONT_MATTER % {
     'title'  :  "List of all pages",
-    'layout' : 'method',
+    'layout' : 'default',
   })
   o.write("\n* [Home](/codaapidocs)")
   for n in range(0, len(titles) - 1):
