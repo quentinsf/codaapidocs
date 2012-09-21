@@ -44,7 +44,7 @@ for fname in os.listdir(work_dir):
 
                 o.write(body.encode("UTF-8"))
 
-with open(os.path.join(out_dir, "sitemap.md"), 'w') as o:
+with open(os.path.join(out_dir, "_includes", "sitemap.md"), 'w') as o:
   o.write(YAML_FRONT_MATTER % {
     'title'  :  "List of all pages",
     'layout' : 'default',
