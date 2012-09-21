@@ -22,7 +22,7 @@ for fname in os.listdir(work_dir):
         with open(os.path.join(work_dir, fname), 'r') as i:
             data = i.read()
             data = json.loads(data)
-            link = data['permalink']
+            link = data['permalink'].replace('externalv2json', '').replace('externalv2son', '')
             body = data['body']
             title = data['title']
             links.append(link)
