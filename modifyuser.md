@@ -4,11 +4,11 @@ layout: method
 ---
 ## external/v2/json/modifyUser
 
-HTTPMethod: GET/POST
+**HTTPMethod**: GET/POST
 
-Required Parameters: user_uuid
+**Required Parameters**: user_uuid
 
-Optional Parameters: username, password, first_name, last_name, email, permission
+**Optional Parameters**: username, password, first_name, last_name, email, permission
 
 
 Updates the user specified with the provided UUID, allowing you to change the user's name, password, email address or permission level. Only those parameters provided will be updated.

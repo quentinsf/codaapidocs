@@ -4,9 +4,9 @@ layout: method
 ---
 ## external/v2/json/createGroup
 
-HTTPMethod: GET/POST
+**HTTPMethod**: GET/POST
 
-Required Parameters: name
+**Required Parameters**: name
 
 Optional Parameters:
 

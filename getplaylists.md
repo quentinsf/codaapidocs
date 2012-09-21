@@ -4,11 +4,11 @@ layout: method
 ---
 ## external/v2/json/getPlaylists
 
-HTTPMethod: GET/POST
+**HTTPMethod**: GET/POST
 
-Required Parameters: 
+**Required Parameters**: 
 
-Optional Parameters: name, playlist_uuid
+**Optional Parameters**: name, playlist_uuid
 
 
 Returns details either all playlists, or those that match the optional parameters.

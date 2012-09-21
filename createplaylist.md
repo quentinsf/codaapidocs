@@ -4,9 +4,9 @@ layout: method
 ---
 ## external/v2/json/createPlaylist
 
-HTTPMethod: GET/POST
+**HTTPMethod**: GET/POST
 
-Required Parameters: name, uuid_duration_mapping
+**Required Parameters**: name, uuid_duration_mapping
 
 Optional Parameters:
 

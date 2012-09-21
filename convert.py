@@ -43,9 +43,9 @@ for fname in os.listdir(work_dir):
                 # Look for instances of api.codaview.com and remove
                 body = body.replace("https://api.codaview.com", "")
                 
-                body = re.sub(r'^(HTTPMethod: .*)$', r"\1\n", body, flags=re.MULTILINE)
-                body = re.sub(r'^(Required Parameters: .*)$', r"\1\n", body, flags=re.MULTILINE)
-                body = re.sub(r'^(Optional Parameters: .*)$', r"\1\n", body, flags=re.MULTILINE)
+                body = re.sub(r'^(HTTPMethod): (.*)$',          r"**\1**: \2\n", body, flags=re.MULTILINE)
+                body = re.sub(r'^(Required Parameters): (.*)$', r"**\1**: \2\n", body, flags=re.MULTILINE)
+                body = re.sub(r'^(Optional Parameters): (.*)$', r"**\1**: \2\n", body, flags=re.MULTILINE)
 
                 o.write(body.encode("UTF-8"))
 

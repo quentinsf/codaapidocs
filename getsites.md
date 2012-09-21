@@ -4,11 +4,11 @@ layout: method
 ---
 ## external/v2/json/getSites
 
-HTTPMethod: GET/POST
+**HTTPMethod**: GET/POST
 
-Required Parameters: 
+**Required Parameters**: 
 
-Optional Parameters: name, site_uuid
+**Optional Parameters**: name, site_uuid
 
 
 Returns details either all sites, or those that match the optional parameters.

@@ -4,9 +4,9 @@ layout: method
 ---
 ## external/v2/json/getUser
 
-HTTPMethod: GET/POST
+**HTTPMethod**: GET/POST
 
-Required Parameters: 
+**Required Parameters**: 
 
 Optional Parameters:
 

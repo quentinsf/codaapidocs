@@ -4,9 +4,9 @@ layout: method
 ---
 ## external/v2/json/touchSource
 
-HTTPMethod: GET/POST
+**HTTPMethod**: GET/POST
 
-Required Parameters: source_uuid
+**Required Parameters**: source_uuid
 
 Optional Parameters:·
 

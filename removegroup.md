@@ -4,9 +4,9 @@ layout: method
 ---
 ## external/v2/json/removeGroup
 
-HTTPMethod: GET/POST
+**HTTPMethod**: GET/POST
 
-Required Parameters: group_uuid
+**Required Parameters**: group_uuid
 
 Optional Parameters:
 

@@ -4,11 +4,11 @@ layout: method
 ---
 ## external/v2/json/createDisplay
 
-HTTPMethod: GET/POST
+**HTTPMethod**: GET/POST
 
-Required Parameters: serial
+**Required Parameters**: serial
 
-Optional Parameters: 
+**Optional Parameters**: 
 
 
 Allows you to register hardware devices with the given serial number. 

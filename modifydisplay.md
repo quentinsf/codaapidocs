@@ -4,11 +4,11 @@ layout: method
 ---
 ## external/v2/json/modifyDisplay
 
-HTTPMethod: GET/POST
+**HTTPMethod**: GET/POST
 
-Required Parameters: display_uuid
+**Required Parameters**: display_uuid
 
-Optional Parameters: name, mode, rotation, tags, owner_uuid
+**Optional Parameters**: name, mode, rotation, tags, owner_uuid
 
 
 Updates the display specified with the provided UUID, allowing you to change the display's name, mode, rotation, tags, and owner. Only those parameters provided will be updated.
