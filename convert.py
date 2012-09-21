@@ -47,6 +47,6 @@ with open(os.path.join(out_dir, "sitemap.md"), 'w') as o:
   })
   o.write("\n* [Home](/codaapidocs)")
   for n in range(0, len(titles) - 1):
-    o.write("\n* [%s](/%s)" % (titles[n], links[n]) )
+    o.write("\n* [%s](%s)" % (titles[n], links[n]) )
 
 print "Done"
