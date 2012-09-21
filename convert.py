@@ -47,10 +47,10 @@ for fname in os.listdir(work_dir):
 with open(os.path.join(out_dir, "_includes", "sitemap.md"), 'w') as o:
   o.write(YAML_FRONT_MATTER % {
     'title'  :  "List of all pages",
-    'layout' : 'default',
+    'layout' : 'sidebar',
   })
   o.write("\n* [Home](/codaapidocs)")
   for n in range(0, len(titles) - 1):
-    o.write("\n* [%s](%s)" % (titles[n], links[n]) )
+    o.write("\n* [%s](/codaapidocs/%s)" % (titles[n], links[n]) )
 
 print "Done"
