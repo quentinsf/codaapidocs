@@ -5,8 +5,11 @@ layout: method
 ## external/v2/json/modifySource
 
 HTTPMethod: GET/POST
+
 Required Parameters: source_uuid
+
 Optional Parameters: name, parameters
+
 
 Allows you to modify a source item to change the name and/or associated parameters. In CODA, each source type you see is has a corresponding UUID for the type, and a set of required and optional parameters. Full details on the source types can be found [here](source-types-and-the-api).
 

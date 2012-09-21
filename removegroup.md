@@ -5,7 +5,9 @@ layout: method
 ## external/v2/json/removeGroup
 
 HTTPMethod: GET/POST
+
 Required Parameters: group_uuid
+
 Optional Parameters:
 
 Removes the group with the specified UUID.

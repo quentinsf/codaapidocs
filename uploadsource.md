@@ -5,8 +5,11 @@ layout: method
 ## external/v2/json/uploadSource
 
 HTTPMethod: GET/POST
+
 Required Parameters: name
+
 Optional Parameters: replace, tags
+
 
 Uploads source content with the given name, and optionally, tags and whether to replace an existing source.
 

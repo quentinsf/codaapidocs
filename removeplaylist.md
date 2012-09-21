@@ -5,7 +5,9 @@ layout: method
 ## external/v2/json/removePlaylist
 
 HTTPMethod: GET/POST
+
 Required Parameters: playlist_uuid
+
 Optional Parameters:
 
 Removes the playlist with the specified UUID.

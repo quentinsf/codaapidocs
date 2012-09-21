@@ -5,8 +5,11 @@ layout: method
 ## external/v2/json/getOrganisation
 
 HTTPMethod: GET/POST
+
 Required Parameters: 
+
 Optional Parameters: 
+
 
 Returns details about the organisation associated with the OAuth token used in the request.
 

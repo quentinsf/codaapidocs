@@ -5,7 +5,9 @@ layout: method
 ## external/v2/json/createUser
 
 HTTPMethod: GET/POST
+
 Required Parameters: username, password, first_name, last_name, email, permission
+
 Optional Parameters:
 
 Creates the user specified, allowing you to specify the user's name, password, email address or permission level.

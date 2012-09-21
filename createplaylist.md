@@ -5,7 +5,9 @@ layout: method
 ## external/v2/json/createPlaylist
 
 HTTPMethod: GET/POST
+
 Required Parameters: name, uuid_duration_mapping
+
 Optional Parameters:
 
 Creates the playlist specified, allowing you to specify the playlist's name and content.

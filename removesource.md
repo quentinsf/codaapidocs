@@ -5,7 +5,9 @@ layout: method
 ## external/v2/json/removeSource
 
 HTTPMethod: GET/POST
+
 Required Parameters: source_uuid
+
 Optional Parameters:
 
 Removes the source with the specified UUID.

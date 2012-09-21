@@ -5,8 +5,11 @@ layout: method
 ## external/v2/json/getSources
 
 HTTPMethod: GET/POST
+
 Required Parameters: 
+
 Optional Parameters: name, source_uuid
+
 
 Returns details either all displays, or those that match the optional parameters.
 

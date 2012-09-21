@@ -5,8 +5,11 @@ layout: method
 ## external/v2/json/getDisplays
 
 HTTPMethod: GET/POST
+
 Required Parameters: 
+
 Optional Parameters: name, serial, owner_uuid, site_uuid, display_uuid
+
 
 Returns details either all displays, or those that match the optional parameters.
 

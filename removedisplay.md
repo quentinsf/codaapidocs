@@ -5,7 +5,9 @@ layout: method
 ## external/v2/json/removeDisplay
 
 HTTPMethod: GET/POST
+
 Required Parameters: display_uuid
+
 Optional Parameters:
 
 Removes the display with the specified UUID.

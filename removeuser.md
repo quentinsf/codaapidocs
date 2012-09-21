@@ -5,7 +5,9 @@ layout: method
 ## external/v2/json/removeUser
 
 HTTPMethod: GET/POST
+
 Required Parameters: user_uuid
+
 Optional Parameters:
 
 Removes the user with the specified UUID.

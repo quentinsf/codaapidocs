@@ -5,7 +5,9 @@ layout: method
 ## external/v2/json/touchSource
 
 HTTPMethod: GET/POST
+
 Required Parameters: source_uuid
+
 Optional Parameters:·
 
 Updated the last-modified time for a source with the given UUID.

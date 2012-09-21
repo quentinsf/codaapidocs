@@ -1,6 +1,7 @@
 #! /usr/bin/env python
 
 import json, os, getpass
+import re
 
 if getpass.getuser() == 'mozz':
   work_dir = "/Users/mozz/Dropbox/files/work/Telemarq/Telemarq_shared/api_docs_json"
@@ -41,6 +42,10 @@ for fname in os.listdir(work_dir):
 
                 # Look for instances of api.codaview.com and remove
                 body = body.replace("https://api.codaview.com", "")
+                
+                body = re.sub(r'^(HTTPMethod: .*)$', r"\1\n", body, flags=re.MULTILINE)
+                body = re.sub(r'^(Required Parameters: .*)$', r"\1\n", body, flags=re.MULTILINE)
+                body = re.sub(r'^(Optional Parameters: .*)$', r"\1\n", body, flags=re.MULTILINE)
 
                 o.write(body.encode("UTF-8"))
 

@@ -5,8 +5,11 @@ layout: method
 ## external/v2/json/modifyGroup
 
 HTTPMethod: GET/POST
+
 Required Parameters: group_uuid
+
 Optional Parameters: name, members
+
 
 Updates the group specified with the provided UUID, allowing you to change the group's name and members.
 

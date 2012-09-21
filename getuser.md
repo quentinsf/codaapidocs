@@ -5,7 +5,9 @@ layout: method
 ## external/v2/json/getUser
 
 HTTPMethod: GET/POST
+
 Required Parameters: 
+
 Optional Parameters:
 
 Returns details of the current user as identified by the API access token.

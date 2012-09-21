@@ -5,7 +5,9 @@ layout: method
 ## external/v2/json/modifyPlaylist
 
 HTTPMethod: GET/POST
+
 Required Parameters: playlist_uuid, uuid_duration_mapping
+
 Optional Parameters:
 
 Modifies the playlist specified.  Replaces its contents with the contents of uuid_duration_mapping.

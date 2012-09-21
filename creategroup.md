@@ -5,7 +5,9 @@ layout: method
 ## external/v2/json/createGroup
 
 HTTPMethod: GET/POST
+
 Required Parameters: name
+
 Optional Parameters:
 
 Creates a new user group with the specified name.

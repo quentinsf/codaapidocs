@@ -5,8 +5,11 @@ layout: method
 ## external/v2/json/assignSource
 
 HTTPMethod: GET/POST
+
 Required Parameters: display_uuids, source_uuid
+
 Optional Parameters: 
+
 
 Assigns the source with the given UUID to run on the displays listed by UUID.
 

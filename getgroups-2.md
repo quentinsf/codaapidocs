@@ -5,8 +5,11 @@ layout: method
 ## external/v2/json/getGroups
 
 HTTPMethod: GET/POST
+
 Required Parameters: 
+
 Optional Parameters: name, group_uuid
+
 
 Returns details either all users, or those that match the optional parameters.
 
