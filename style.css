@@ -22,8 +22,8 @@ body {
 }
 
 a.home_link {
-    float: left;
-    margin-right: 12px;
+    float: right;
+    margin: 6px 12px;
 }
 
 article {
@@ -35,7 +35,7 @@ article pre {
 }
 
 .method #main {
-    width: 70%;
+    width: 75%;
     float: left;
 }
 
@@ -44,7 +44,7 @@ article pre {
 }
 
 #sidebar {
-    width: 29.9%;
+    width: 24.9%;
     float: left;
     margin: 0;
     padding: 0;
