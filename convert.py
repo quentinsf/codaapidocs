@@ -47,7 +47,7 @@ for fname in os.listdir(work_dir):
 with open(os.path.join(out_dir, "sitemap.md"), 'w') as o:
   o.write(YAML_FRONT_MATTER % {
     'title'  :  "List of all pages",
-    'layout' : 'method',
+    'layout' : 'default',
   })
   o.write("\n* [Home](/codaapidocs)")
   for n in range(0, len(titles) - 1):
