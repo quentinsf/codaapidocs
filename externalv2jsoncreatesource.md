@@ -21,7 +21,7 @@ Allows you to create a new source item with a specified type and associated para
 
 Simply send a GET or POST request with suitable OAuth credentials and the name, type UUID, and parameters.
 
-`https://api.codaview.com/external/v2/json/createSource/`
+`/external/v2/json/createSource/`
 
 ### Response
 

@@ -12,9 +12,9 @@ To use the OAuth API each application requires a Consumer Key/Secret pair author
 
 CODA uses common standard locations for OAuth authentication:
 
-    https://api.codaview.com/oauth/request_token/
-    https://api.codaview.com/oauth/authorize/
-    https://api.codaview.com/oauth/access_token/
+    /oauth/request_token/
+    /oauth/authorize/
+    /oauth/access_token/
 
 <br/>
 Use these URLs with a standard OAuth library to generate a validated access token for your application. After that you can access each API call using the URL specified on each page of the documentation. 

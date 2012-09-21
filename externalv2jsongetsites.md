@@ -19,7 +19,7 @@ Returns details either all sites, or those that match the optional parameters.
 
 Simply send a GET or POST request with suitable OAuth credentials and optionally any of the filters required.
 
-`https://api.codaview.com/external/v2/json/getSites/`
+`/external/v2/json/getSites/`
 
 ### Response
 

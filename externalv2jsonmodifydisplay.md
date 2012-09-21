@@ -26,7 +26,7 @@ Updates the display specified with the provided UUID, allowing you to change the
 
 Simply send a GET or POST request with suitable OAuth credentials, the display's UUID, and the parameters which you wish to update.
 
-`https://api.codaview.com/external/v2/json/modifyDisplay/`
+`/external/v2/json/modifyDisplay/`
 
 ### Response
 

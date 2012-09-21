@@ -18,7 +18,7 @@ Allows you to register hardware devices with the given serial number.
 
 Simply send a GET or POST request with suitable OAuth credentials and the serial parameter.
 
-`https://api.codaview.com/external/v2/json/createDisplay/`
+`/external/v2/json/createDisplay/`
 
 ### Response
 

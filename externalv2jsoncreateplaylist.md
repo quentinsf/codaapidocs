@@ -21,7 +21,7 @@ Creates the playlist specified, allowing you to specify the playlist's name and 
 
 Simply send a GET or POST request with suitable OAuth credentials and the name and uuid_duration_mapping parameters.
 
-`https://api.codaview.com/external/v2/json/createPlaylist/`
+`/external/v2/json/createPlaylist/`
 
 ### Response
 

@@ -24,7 +24,7 @@ Allows you to modify a source item to change the name and/or associated paramete
 
 Simply send a GET or POST request with suitable OAuth credentials and the source_uuid, name and parameters.
 
-`https://api.codaview.com/external/v2/json/modifySource/`
+`/external/v2/json/modifySource/`
 
 ### Response
 

@@ -14,7 +14,7 @@ Returns details about the organisation associated with the OAuth token used in t
 
 Simply send a GET or POST request with suitable OAuth credentials and the name parameter.
 
-`https://api.codaview.com/external/v2/json/getOrganisation/`
+`/external/v2/json/getOrganisation/`
 
 ### Response
 

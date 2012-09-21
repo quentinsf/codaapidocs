@@ -23,7 +23,7 @@ Uploads source content with the given name, and optionally, tags and whether to 
 
 Simply send a GET or POST request with suitable OAuth credentials and the name, tags and replace flag.
 
-`https://api.codaview.com/external/v2/json/uploadSource/`
+`/external/v2/json/uploadSource/`
 
 ### Response
 

@@ -19,7 +19,7 @@ group_uuid:  UUID of the group. Must exist in the organisation.
 
 Simply send a GET or POST request with suitable OAuth credentials and the group_uuid parameter.
 
-`https://api.codaview.com/external/v2/json/removeGroup/`
+`/external/v2/json/removeGroup/`
 
 ### Response
 

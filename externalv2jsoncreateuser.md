@@ -23,7 +23,7 @@ Creates the user specified, allowing you to specify the user's name, password, e
 
 Simply send a GET or POST request with suitable OAuth credentials and the username, password, first_name, last_name, email and permission parameters.
 
-`https://api.codaview.com/external/v2/json/createUser/`
+`/external/v2/json/createUser/`
 
 ### Response
 

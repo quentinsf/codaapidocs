@@ -18,7 +18,7 @@ Updated the last-modified time for a source with the given UUID.
 
 Simply send a GET or POST request with suitable OAuth credentials and the source UUID.
 
-`https://api.codaview.com/external/v2/json/touchSource/`
+`/external/v2/json/touchSource/`
 
 ### Response
 

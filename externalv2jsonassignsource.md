@@ -19,7 +19,7 @@ Assigns the source with the given UUID to run on the displays listed by UUID.
 
 Simply send a GET or POST request with suitable OAuth credentials and the source UUID and display UUIDs.
 
-`https://api.codaview.com/external/v2/json/assignSource/`
+`/external/v2/json/assignSource/`
 
 ### Response
 

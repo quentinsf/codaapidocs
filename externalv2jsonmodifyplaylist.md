@@ -21,7 +21,7 @@ Modifies the playlist specified.  Replaces its contents with the contents of uui
 
 Simply send a GET or POST request with suitable OAuth credentials and the playlist_uuid and uuid_duration_mapping parameters.
 
-`https://api.codaview.com/external/v2/json/modifyPlaylist/`
+`/external/v2/json/modifyPlaylist/`
 
 ### Response
 
