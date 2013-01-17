@@ -6,16 +6,16 @@ layout: method
 
 **HTTPMethod**: GET/POST
 
-**Required Parameters**: 
+**Required Parameters**: *none*
 
-**Optional Parameters**: 
+**Optional Parameters**: *none*
 
 Returns details about the organisations associated with the OAuth token used in the request.  If this was created with the default 
 'organisation' scope, the result will be a list containing just one
 organisation.
 
 If, however, the scope used was 'impersonate', it will include
-all the orgs of which the user is a member, and if any child orgs
+all the orgs of which the user is a member, and any child orgs
 over the user has reseller permissions.  See the [API Authentication](api-authentication) documentation for more info.
 
 ### Usage
