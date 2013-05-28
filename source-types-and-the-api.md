@@ -15,7 +15,7 @@ The below list shows you a list of source types applications can general create 
 </tr>
 <tr>
 <td>
-			<img src="https://static.camvine.com/static/gui/icons/icon_markup_bm.png" />
+			<img src="https://console.envisage-system.co.uk/static/gui/icons/icon_markup_bm.png" />
 		</td>
 <td>
 			CODA Markup Document
@@ -32,7 +32,7 @@ The below list shows you a list of source types applications can general create 
 </tr>
 <tr>
 <td>
-			<img src="https://static.camvine.com/static/gui/icons/icon_flash_bm.png" />
+			<img src="https://console.envisage-system.co.uk/static/gui/icons/icon_flash_bm.png" />
 		</td>
 <td>
 			Flash
@@ -49,7 +49,7 @@ The below list shows you a list of source types applications can general create 
 </tr>
 <tr>
 <td>
-			<img src="https://static.camvine.com/static/gui/icons/icon_html_bm.png" />
+			<img src="https://console.envisage-system.co.uk/static/gui/icons/icon_html_bm.png" />
 		</td>
 <td>
 			HTML page
@@ -66,7 +66,7 @@ The below list shows you a list of source types applications can general create 
 </tr>
 <tr>
 <td>
-			<img src="https://static.camvine.com/static/gui/icons/icon_onlinecalendar_bm.png" />
+			<img src="https://console.envisage-system.co.uk/static/gui/icons/icon_onlinecalendar_bm.png" />
 		</td>
 <td>
 			iCal Calendar
@@ -85,7 +85,7 @@ The below list shows you a list of source types applications can general create 
 </tr>
 <tr>
 <td>
-			<img src="https://static.camvine.com/static/gui/icons/icon_image_bm.png" />
+			<img src="https://console.envisage-system.co.uk/static/gui/icons/icon_image_bm.png" />
 		</td>
 <td>
 			Image
@@ -102,7 +102,7 @@ The below list shows you a list of source types applications can general create 
 </tr>
 <tr>
 <td>
-			<img src="https://static.camvine.com/static/gui/icons/icon_pdf_bm.png" />
+			<img src="https://console.envisage-system.co.uk/static/gui/icons/icon_pdf_bm.png" />
 		</td>
 <td>
 			PDF
@@ -123,7 +123,7 @@ The below list shows you a list of source types applications can general create 
 </tr>
 <tr>
 <td>
-			<img src="https://static.camvine.com/static/gui/icons/icon_imageplaylist_bm.png" />
+			<img src="https://console.envisage-system.co.uk/static/gui/icons/icon_imageplaylist_bm.png" />
 		</td>
 <td>
 			Photocast
@@ -144,7 +144,7 @@ The below list shows you a list of source types applications can general create 
 </tr>
 <tr>
 <td>
-			<img src="https://static.camvine.com/static/gui/icons/icon_mixedplaylist.png" />
+			<img src="https://console.envisage-system.co.uk/static/gui/icons/icon_mixedplaylist.png" />
 		</td>
 <td>
 			Playlist
@@ -165,7 +165,7 @@ The below list shows you a list of source types applications can general create 
 </tr>
 <tr>
 <td>
-			<img src="https://static.camvine.com/static/gui/icons/icon_rss_bm.png" />
+			<img src="https://console.envisage-system.co.uk/static/gui/icons/icon_rss_bm.png" />
 		</td>
 <td>
 			RSS Feed
@@ -186,7 +186,7 @@ The below list shows you a list of source types applications can general create 
 </tr>
 <tr>
 <td>
-			<img src="https://static.camvine.com/static/gui/icons/icon_video_bm.png" />
+			<img src="https://console.envisage-system.co.uk/static/gui/icons/icon_video_bm.png" />
 		</td>
 <td>
 			Video
