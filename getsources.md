@@ -8,7 +8,7 @@ layout: method
 
 **Required Parameters**: 
 
-**Optional Parameters**: name, source_uuid
+**Optional Parameters**: name, source_uuid, type_uuids
 
 
 Returns details either all displays, or those that match the optional parameters.
@@ -18,6 +18,7 @@ Returns details either all displays, or those that match the optional parameters
     source_uuid: Restrict sources to the one with the matching UUID.
     source_uuids: Restrict sources to the ones in this list of UUIDs.
     name:  Restrict sources to those that contain this string in their name (case insensitive).
+    type_uuids: a JSON encoded list of source type UUIDs. Restricts sources to those matching the specified types.
 
 ### Usage
 
