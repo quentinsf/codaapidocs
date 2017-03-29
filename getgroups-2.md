@@ -10,8 +10,7 @@ layout: method
 
 **Optional Parameters**: name, group_uuid
 
-
-Returns details either all users, or those that match the optional parameters.
+Returns details of all user groups, or just of those that match the optional parameters.
 
 ### Optional Parameters
 
